@@ -1,2 +1,2 @@
 # InventoryManagement
-inventory Mangement System
+inventory Mangement System with Python using Json
